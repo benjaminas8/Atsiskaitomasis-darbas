@@ -171,7 +171,7 @@ footer {
     height: 0;
     padding: 70% 0;
     position: relative;
-    background-image: url("./Iris-collar.jpg");
+    background-image: url("./images/Iris-collar.jpg");
     background-size: cover;
     background-position: center;
 
@@ -277,7 +277,7 @@ footer {
 }
 
 .review-section {
-  background-image: url(./review-background.jpg);
+  background-image: url(./images/review-background.jpg);
   background-size: cover;
   background-position: center;
   padding: 0 4rem;
