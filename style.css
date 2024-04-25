@@ -85,13 +85,14 @@ footer {
   font-style: normal;
   font-variation-settings: "wdth" 100;
 
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 400;
   letter-spacing: 1.3px;
   width: 100%;
   text-align: center;
   text-wrap: stable;
   padding: 1rem 1rem;
+  padding-bottom: 6rem;
 }
 
 .popular-collar-image {
@@ -111,7 +112,7 @@ footer {
   font-optical-sizing: auto;
   font-style: normal;
   font-variation-settings: "wdth" 100;
-  font-size: 3.7rem;
+  font-size: 2rem;
   font-weight: 430;
   letter-spacing: 1.3px;
   width: 100%;
@@ -549,6 +550,13 @@ footer {
         font-size: 1.3rem;
       }
     }
+  }
+
+  .popular-collar-title {
+    font-size: 5rem;
+  }
+  .popular-collar-subtitle {
+    font-size: 2rem;
   }
 
   .collar-section-overview {
